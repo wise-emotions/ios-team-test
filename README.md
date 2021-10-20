@@ -11,7 +11,7 @@ The APIs are available at the [following address](https://pokeapi.co).
 
 ## Guidelines
 
-1. Use [Swift 5.4](https://swift.org/blog/swift-5-4-released/)
+1. Use [Swift 5.5](https://swift.org/blog/swift-5-5-released/)
 2. Use iOS 11 as Target SDK
 3. You can use a few external libraries, and motivate their usage
 4. Use the MVVM pattern
